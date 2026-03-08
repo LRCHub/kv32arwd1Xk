@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "真っ赤な空を見ただろうか",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2026-03-08T13:40:41.247268Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "真っ赤な空を見ただろうか",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/01_真っ赤な空を見ただろうか_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "真っ赤な空を見ただろうか",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/02_真っ赤な空を見ただろうか_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "真っ赤な空を見ただろうか",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_真っ赤な空を見ただろうか_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
